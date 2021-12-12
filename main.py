@@ -108,4 +108,4 @@ async def resume(ctx):
 async def leave(ctx):
     await ctx.voice_client.disconnect()
 
-bot.run('')
+bot.run('123')
